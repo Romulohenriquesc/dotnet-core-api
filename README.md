@@ -1,4 +1,9 @@
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="dotnetcoreapi_0"></a>dotnet-core-api</h1>
+
+<h3 class="code-line" data-line-start=2 data-line-end=3 ><a id="Packages_2"></a>Packages</h3>
+<p class="has-line-data" data-line-start="3" data-line-end="5">Microsoft.EntityFrameworkCore: 3.1.409<br>
+Pomelo.EntityFrameworkCore.MySql: 3.1.2</p>
+
 <h2 class="code-line" data-line-start=2 data-line-end=3 ><a id="Creating_project_architecture_2"></a>Creating project architecture</h2>
 <p class="has-line-data" data-line-start="4" data-line-end="17">run commands<br>
 dotnet new sln --name Api<br>
