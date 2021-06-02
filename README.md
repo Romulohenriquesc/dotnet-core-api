@@ -25,3 +25,6 @@ dotnet build</p>
 <p class="has-line-data" data-line-start="29" data-line-end="32">in the /src/Api.Data/ run<br>
 dotnet tool install --global dotnet-ef<br>
 dotnet restore</p>
+
+<p class="has-line-data" data-line-start="33" data-line-end="35">in the /src/ run<br>
+dotnet add .\Api.Data\ reference .\Api.Domain\</p>
