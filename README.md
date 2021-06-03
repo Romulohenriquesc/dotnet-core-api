@@ -28,3 +28,6 @@ dotnet restore</p>
 
 <p class="has-line-data" data-line-start="33" data-line-end="35">in the /src/ run<br>
 dotnet add .\Api.Data\ reference .\Api.Domain\</p>
+
+<p class="has-line-data" data-line-start="33" data-line-end="35">dotnet ef migrations add UserMigration</p>
+<p class="has-line-data" data-line-start="33" data-line-end="35">dotnet ef database update</p>
